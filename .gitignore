@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.task
+sessions/
+practice/
+.DS_Store
