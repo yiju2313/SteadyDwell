@@ -6,9 +6,9 @@ SteadyDwell is a small research testbed. A user first completes a ~3-minute poin
 
 ## Motivation
 
-Prof. Diwakar Krishnamurthy's lab developed the HoloBoard, an AR letterboard on which nonspeaking people type by pointing at holographic letters (Alabood et al., CHI 2024). The group has since explored other ways to select letters in XR, including gaze (Nazari et al., VRST 2024) and grab-and-release spelling (Alabood et al., DIS 2025), as well as telling intended selections apart from unintended ones (Pratishtha et al., AVI 2026).
+Prof. Diwakar Krishnamurthy's lab developed the HoloBoard, an AR letterboard on which nonspeaking people type by pointing at holographic letters (Alabood et al., CHI 2024). According to the team's IEEE Spectrum article (Jaswal, Krishnamurthy & Wang, 2025), letters can now also be selected by gaze, or by gaze combined with a physical clicker.
 
-Their IEEE Spectrum article (Jaswal, Krishnamurthy & Wang, 2025) describes challenges that motivated this project: users can find motor control difficult, the letterboard's size and color are adjusted by hand, and head-mounted displays are expensive and cannot be worn all day.
+The same article describes challenges that motivated this project: users can find motor control difficult, the letterboard's size and colour are chosen manually by the user or caregiver rather than set automatically, and head-mounted displays are expensive and too heavy to wear all day.
 
 This project asks two narrower, technical questions on low-cost hardware:
 
@@ -147,12 +147,9 @@ The calibration separated the two hands on **key size**: the left hand was much 
 
 ## Related work
 
-Work from Prof. Diwakar Krishnamurthy's group and collaborators on XR communication systems motivated this project, including:
+Work from Prof. Diwakar Krishnamurthy's group and collaborators on XR communication systems motivated this project:
 
 - Alabood et al. *From letterboards to holograms: Advancing assistive technology for nonspeaking autistic individuals with the HoloBoard.* CHI 2024.
-- Nazari et al. *Evaluating gaze interactions within AR for nonspeaking autistic users.* VRST 2024.
-- Alabood et al. *Grab-and-release spelling in XR: A feasibility study for nonspeaking autistic people using video-passthrough devices.* DIS 2025.
-- Pratishtha et al. *Detecting intent in XR for nonspeaking autistic typers.* AVI 2026.
 - Jaswal, Krishnamurthy & Wang. *The quest to ensure nonspeaking autistic people are heard.* IEEE Spectrum, 2025.
 
 Methods:
